@@ -10,4 +10,9 @@ categories: [Javascript, CSS, .NET]
 
 {% include_code test.coffee lang:coffeescript %}
 
-## Testing Your Face
+# Blog Post Ideas
+1. YAGNI
+2. KISS
+3. Rule of Three
+4. Don't Repeat Yourself 
+5. List of Software Engineering Terms
